@@ -1,0 +1,35 @@
+ul.categories li a, ul li a {
+    text-decoration:none
+}
+
+ul.categories li a:hover {
+    color: green;
+}
+
+h1, h2, p.text1, ul.categories, .popularplantsimg {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+ul.categories li{
+    display: inline;
+}
+
+ol.article li b {
+    background-color: wheat;
+}
+
+ul.popularplants li b {
+    color: rgb(5, 138, 38);
+}
+
+ul.categoriesplants li b a {
+    background-color: rgb(124, 204, 168);
+}
